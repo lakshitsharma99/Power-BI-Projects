@@ -10,6 +10,6 @@ All Power BI Projects I developed.
 
 ## Info:
 
-* Personal Website: <https://lakshitsharma99.github.io/>
-* LinkedIn: <https://www.linkedin.com/in/lakshitsharma99/>
+* Personal Website: <https://LakshitSharma99.github.io/>
+* LinkedIn: <https://www.linkedin.com/in/LakshitSharma99/>
 * Email: <a href="mailto:lakshitsharma9915@gmail.com">LakshitSharma9915@gmail.com</a>
